@@ -1,4 +1,0 @@
-hello
-input
-enter
-shift
